@@ -8,17 +8,42 @@
 - 👨‍🎓 I'm a College Student: `Computer Science Engineering` ❤
 
 <br>
-  
----
-<h3 align="left">Languages:</h3>
-<p align="left"> 
-<a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="JAVA" width="50" height="50"/> </a>           
-<a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/> </a> 
-</p>
 
 ---
 
-<br>
+## 🚀 Languages & Tools  
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.java.com/en/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Java</td>
+    <td align="center">C</td>
+    <td align="center">C++</td>
+    <td align="center">Python</td>
+  </tr>
+</table>
+
+---
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
@@ -34,12 +59,9 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AzamAliCodes&theme=dark&hide_border=false" /> 
 </td>
 
-
 <td width="50%" align="center">
-
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzamAliCodes&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-
-  </td>
+</td>
 </tr>
 </table>
 <!--- stats (end) -->
@@ -58,30 +80,23 @@
 
 <br>
 
-<!--profile visit count-->
+---
 
-<div align="center">
+## 📌 Connect with me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/azam-ali-373587341" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=AzamAliCodes&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+---
 
-</div>
+<!-- Profile View Counter -->  
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=AzamAliCodes&label=Profile%20Views&color=blue&style=plastic" alt="AzamAliCodes" /> 
+</p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<!--
-**AzamAliCodes/AzamAliCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
